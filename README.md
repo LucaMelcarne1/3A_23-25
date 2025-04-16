@@ -28,7 +28,8 @@ esempio di un file .cpp
 <p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/matrici.cpp">matrici.cpp</a> </li></ul></p>
 
 <h3>PROCEDURE</h3>
-<p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/matrici.cpp">procedure.cpp</a> </li></ul></p>
+<p><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/matrici.cpp">procedure.cpp</a> </li></ul></p>
+<p><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/procedure1.cpp">procedure1.cpp</a> (stampa di array)</li></ul></p>
 
 <h3>FUNZIONI</h3>
 <p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/matrici.cpp">funzioni.cpp</a> </li></ul></p>
