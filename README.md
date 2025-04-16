@@ -12,7 +12,5 @@ esempio di un file .cpp
                 return 0;
         }
 
-<ul><li>Nel file <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/variabili.cpp">variabili.cpp</a> trovi:</li></ul>
-        dichiarazione variabili
-        input e output (cin - cout)
+<ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/variabili.cpp">variabili.cpp</a> </li></ul>
 
