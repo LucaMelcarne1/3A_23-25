@@ -13,7 +13,6 @@ esempio di un file .cpp
         }
 
 <ul><li>Nel file <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/variabili.cpp">variabili.cpp</a> trovi:</li></ul>
-<ul>
-<li>dichiarazione variabili</li>
-<li>input e output (cin - cout)</li>
-</ul>
+        dichiarazione variabili
+        input e output (cin - cout)
+
