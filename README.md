@@ -1,7 +1,7 @@
 # 3A_23-25
 Informatica 3A - C++
 
-<code class="language-c">    
+
     <pre><code class="language-c">
         #include <stdio.h>
         
@@ -10,4 +10,4 @@ Informatica 3A - C++
             return 0;
         }
         </code></pre>
-</code>
+
