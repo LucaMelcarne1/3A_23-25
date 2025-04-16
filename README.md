@@ -1,12 +1,13 @@
 # 3A_23-25
 Informatica 3A - C++
 
-File esempio C++
-<code class="language-c">
-        #include <stdio.h>
-        
-        int main() {
-            printf("Ciao mondo!\n");
-            return 0;
-        }
+<code class="language-c">        
+#include <iostream>
+using namespace std;
+//prototipo funzioni
+int main(){
+	//codice
+	return 0;
+}
+//funzioni
 </code>
