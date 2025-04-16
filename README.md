@@ -3,11 +3,10 @@ Informatica 3A - C++
 
 
 esempio di un file .cpp (librerie e main)
-        #include <stdio.h>
-        
+        <code>#include <stdio.h>
         int main() {
             printf("Ciao mondo!\n");
             return 0;
         }
-
+</code>
 
