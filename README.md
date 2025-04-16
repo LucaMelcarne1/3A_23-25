@@ -19,10 +19,16 @@ esempio di un file .cpp
 <p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/selezioni.cpp">selezioni.cpp</a> </li></ul></p>
 
 <h3>CICLI</h3>
-<p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/array.cpp">array.cpp</a> </li></ul></p>
+<p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/cicli.cpp">cicli.cpp</a> </li></ul></p>
 
 <h3>ARRAY</h3>
 <p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/array.cpp">array.cpp</a> </li></ul></p>
 
 <h3>MATRICI</h3>
 <p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/matrici.cpp">matrici.cpp</a> </li></ul></p>
+
+<h3>PROCEDURE</h3>
+<p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/matrici.cpp">procedure.cpp</a> </li></ul></p>
+
+<h3>FUNZIONI</h3>
+<p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/matrici.cpp">funzioni.cpp</a> </li></ul></p>
