@@ -40,9 +40,6 @@ int main() {
 	    break;
 	    default: //caso in cui non si verifica nessuna delle condizioni precedenti.
 	    	cout <<"Numero sbagliato!";
-  }
-	
-
-
+  	}
     return 0;
 }
