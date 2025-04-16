@@ -11,5 +11,4 @@ esempio di un file .cpp
                 cout<<("Ciao mondo!\n");
                 return 0;
         }
-
-
+ <p href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/variabili.cpp">variabili.cpp</p>
