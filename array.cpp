@@ -20,7 +20,7 @@ int main() {
 	
 	//stampa array
 	for (int i=0;i<n;i++){
-		cout <<array1[i]<<" "; ;
+		cout <<array1[i]<<" "; 
 	}
     return 0;
 }
