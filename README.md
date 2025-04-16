@@ -12,6 +12,6 @@ esempio di un file .cpp
                 return 0;
         }
 
-<h3>INPUT/OUTPUT/VARIABILI
-<ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/variabili.cpp">variabili.cpp</a> </li></ul>
+<h3>INPUT/OUTPUT/VARIABILI</h3>
+<p></p></P><ul><li>FILE <a href="https://github.com/LucaMelcarne1/3A_24-25/blob/main/variabili.cpp">variabili.cpp</a> </li></ul></p>
 
